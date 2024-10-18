@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Lista-tarefas.git/static/css/main.87e4fb1f.css",
-    "main.js": "/Lista-tarefas.git/static/js/main.497b402e.js",
-    "static/js/453.cde0ebfd.chunk.js": "/Lista-tarefas.git/static/js/453.cde0ebfd.chunk.js",
-    "static/media/base_model_sd_xl.jpeg": "/Lista-tarefas.git/static/media/base_model_sd_xl.799af83de602d822bb52.jpeg",
-    "index.html": "/Lista-tarefas.git/index.html",
-    "main.87e4fb1f.css.map": "/Lista-tarefas.git/static/css/main.87e4fb1f.css.map",
-    "main.497b402e.js.map": "/Lista-tarefas.git/static/js/main.497b402e.js.map",
-    "453.cde0ebfd.chunk.js.map": "/Lista-tarefas.git/static/js/453.cde0ebfd.chunk.js.map"
+    "main.css": "/Lista-tarefas/static/css/main.b5b119a6.css",
+    "main.js": "/Lista-tarefas/static/js/main.ee7f9cef.js",
+    "static/js/453.cde0ebfd.chunk.js": "/Lista-tarefas/static/js/453.cde0ebfd.chunk.js",
+    "static/media/base_model_sd_xl.jpeg": "/Lista-tarefas/static/media/base_model_sd_xl.799af83de602d822bb52.jpeg",
+    "index.html": "/Lista-tarefas/index.html",
+    "main.b5b119a6.css.map": "/Lista-tarefas/static/css/main.b5b119a6.css.map",
+    "main.ee7f9cef.js.map": "/Lista-tarefas/static/js/main.ee7f9cef.js.map",
+    "453.cde0ebfd.chunk.js.map": "/Lista-tarefas/static/js/453.cde0ebfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87e4fb1f.css",
-    "static/js/main.497b402e.js"
+    "static/css/main.b5b119a6.css",
+    "static/js/main.ee7f9cef.js"
   ]
 }
