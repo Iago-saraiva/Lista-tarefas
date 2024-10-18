@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Iago-34/Lista-tarefas.git/static/css/main.fd6c6758.css",
+    "main.js": "/Iago-34/Lista-tarefas.git/static/js/main.f316f9ba.js",
+    "static/js/453.cde0ebfd.chunk.js": "/Iago-34/Lista-tarefas.git/static/js/453.cde0ebfd.chunk.js",
+    "static/media/base_model_sd_xl.jpeg": "/Iago-34/Lista-tarefas.git/static/media/base_model_sd_xl.799af83de602d822bb52.jpeg",
+    "index.html": "/Iago-34/Lista-tarefas.git/index.html",
+    "main.fd6c6758.css.map": "/Iago-34/Lista-tarefas.git/static/css/main.fd6c6758.css.map",
+    "main.f316f9ba.js.map": "/Iago-34/Lista-tarefas.git/static/js/main.f316f9ba.js.map",
+    "453.cde0ebfd.chunk.js.map": "/Iago-34/Lista-tarefas.git/static/js/453.cde0ebfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd6c6758.css",
+    "static/js/main.f316f9ba.js"
+  ]
+}
