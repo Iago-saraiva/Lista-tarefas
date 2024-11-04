@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Lista-tarefas/static/css/main.783339b9.css",
-    "main.js": "/Lista-tarefas/static/js/main.ee7f9cef.js",
+    "main.js": "/Lista-tarefas/static/js/main.75567b1e.js",
     "static/js/453.cde0ebfd.chunk.js": "/Lista-tarefas/static/js/453.cde0ebfd.chunk.js",
     "static/media/base_model_sd_xl.jpeg": "/Lista-tarefas/static/media/base_model_sd_xl.799af83de602d822bb52.jpeg",
     "index.html": "/Lista-tarefas/index.html",
     "main.783339b9.css.map": "/Lista-tarefas/static/css/main.783339b9.css.map",
-    "main.ee7f9cef.js.map": "/Lista-tarefas/static/js/main.ee7f9cef.js.map",
+    "main.75567b1e.js.map": "/Lista-tarefas/static/js/main.75567b1e.js.map",
     "453.cde0ebfd.chunk.js.map": "/Lista-tarefas/static/js/453.cde0ebfd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.783339b9.css",
-    "static/js/main.ee7f9cef.js"
+    "static/js/main.75567b1e.js"
   ]
 }
